@@ -29,8 +29,5 @@ func main() {
 		if err == e1 {
 			fmt.Println("err1")
 		}
-		if err == e2 {
-			fmt.Println("err2")
-		}
 	}
 }
